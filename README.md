@@ -1,4 +1,4 @@
-# TapSafe-Women-Safety-and-Emergency-Alert-System
+# TapSafe
 Adhesive touch-sensor based emergency response system for discreet SOS activation, GPS location tracking, and GSM based alert transmission.
 
 ## Overview
